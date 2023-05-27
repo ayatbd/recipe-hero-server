@@ -1,6 +1,6 @@
 [{
         "id": 1,
-        "picture": "chef1.jpg",
+        "picture": "https://i.ibb.co/hRCBchd/chef2.jpg",
         "name": "Chef John",
         "experience": 10,
         "recipes": 50,
@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "picture": "chef2.jpg",
+        "picture": "https://i.ibb.co/Rhz1NyK/chef3.jpg",
         "name": "Chef Lisa",
         "experience": 11,
         "recipes": 60,
