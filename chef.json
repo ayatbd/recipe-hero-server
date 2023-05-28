@@ -5,8 +5,83 @@
         "experience": 10,
         "recipes": 50,
         "likes": 500,
-        "description": "Chef John is a culinary expert with 10 years of experience. He has created 50 delicious recipes and gained 500 likes for his amazing creations."
+        "description": "Chef John is a culinary expert with 10 years of experience. He has created 50 delicious recipes and gained 500 likes for his amazing creations.",
+        "recife_info": [
+            {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                  "2 boneless, skinless chicken breasts, cut into small cubes",
+                  "1/2 cup peanuts",
+                  "1 red bell pepper, diced",
+                  "1 green bell pepper, diced",
+                  "1/2 cup diced onion",
+                  "3 cloves garlic, minced",
+                  "2 tablespoons soy sauce",
+                  "1 tablespoon rice vinegar",
+                  "1 tablespoon hoisin sauce",
+                  "1 tablespoon cornstarch",
+                  "1 teaspoon red pepper flakes",
+                  "1/4 cup chicken broth",
+                  "2 tablespoons vegetable oil",
+                  "Salt and pepper to taste"
+                ],
+                "cooking_method": "1. In a small bowl, whisk together soy sauce, rice vinegar, hoisin sauce, cornstarch, red pepper flakes, and chicken broth. Set aside.\n\n2. Heat vegetable oil in a large pan or wok over medium-high heat.\n\n3. Add chicken cubes to the pan and season with salt and pepper. Cook until browned and cooked through, about 5-6 minutes. Remove the chicken from the pan and set aside.\n\n4. In the same pan, add peanuts and stir-fry for 1-2 minutes until lightly toasted. Remove from the pan and set aside.\n\n5. Add diced onion, minced garlic, and diced bell peppers to the pan. Stir-fry for 2-3 minutes until the vegetables are crisp-tender.\n\n6. Return the cooked chicken to the pan and pour the sauce mixture over the chicken and vegetables. Stir well to coat.\n\n7. Cook for an additional 2-3 minutes until the sauce thickens and coats the chicken and vegetables.\n\n8. Serve the Kung Pao chicken over steamed rice or noodles. Garnish with toasted peanuts and sliced green onions, if desired.",
+                "rating": 4.5,
+                "favorite": false,
+                "id": "01"
+              },
+            {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                  "2 boneless, skinless chicken breasts, cut into small cubes",
+                  "1/2 cup peanuts",
+                  "1 red bell pepper, diced",
+                  "1 green bell pepper, diced",
+                  "1/2 cup diced onion",
+                  "3 cloves garlic, minced",
+                  "2 tablespoons soy sauce",
+                  "1 tablespoon rice vinegar",
+                  "1 tablespoon hoisin sauce",
+                  "1 tablespoon cornstarch",
+                  "1 teaspoon red pepper flakes",
+                  "1/4 cup chicken broth",
+                  "2 tablespoons vegetable oil",
+                  "Salt and pepper to taste"
+                ],
+                "cooking_method": "1. In a small bowl, whisk together soy sauce, rice vinegar, hoisin sauce, cornstarch, red pepper flakes, and chicken broth. Set aside.\n\n2. Heat vegetable oil in a large pan or wok over medium-high heat.\n\n3. Add chicken cubes to the pan and season with salt and pepper. Cook until browned and cooked through, about 5-6 minutes. Remove the chicken from the pan and set aside.\n\n4. In the same pan, add peanuts and stir-fry for 1-2 minutes until lightly toasted. Remove from the pan and set aside.\n\n5. Add diced onion, minced garlic, and diced bell peppers to the pan. Stir-fry for 2-3 minutes until the vegetables are crisp-tender.\n\n6. Return the cooked chicken to the pan and pour the sauce mixture over the chicken and vegetables. Stir well to coat.\n\n7. Cook for an additional 2-3 minutes until the sauce thickens and coats the chicken and vegetables.\n\n8. Serve the Kung Pao chicken over steamed rice or noodles. Garnish with toasted peanuts and sliced green onions, if desired.",
+                "rating": 4.5,
+                "favorite": false,
+                "id": "01"
+              },
+            {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                  "2 boneless, skinless chicken breasts, cut into small cubes",
+                  "1/2 cup peanuts",
+                  "1 red bell pepper, diced",
+                  "1 green bell pepper, diced",
+                  "1/2 cup diced onion",
+                  "3 cloves garlic, minced",
+                  "2 tablespoons soy sauce",
+                  "1 tablespoon rice vinegar",
+                  "1 tablespoon hoisin sauce",
+                  "1 tablespoon cornstarch",
+                  "1 teaspoon red pepper flakes",
+                  "1/4 cup chicken broth",
+                  "2 tablespoons vegetable oil",
+                  "Salt and pepper to taste"
+                ],
+                "cooking_method": "1. In a small bowl, whisk together soy sauce, rice vinegar, hoisin sauce, cornstarch, red pepper flakes, and chicken broth. Set aside.\n\n2. Heat vegetable oil in a large pan or wok over medium-high heat.\n\n3. Add chicken cubes to the pan and season with salt and pepper. Cook until browned and cooked through, about 5-6 minutes. Remove the chicken from the pan and set aside.\n\n4. In the same pan, add peanuts and stir-fry for 1-2 minutes until lightly toasted. Remove from the pan and set aside.\n\n5. Add diced onion, minced garlic, and diced bell peppers to the pan. Stir-fry for 2-3 minutes until the vegetables are crisp-tender.\n\n6. Return the cooked chicken to the pan and pour the sauce mixture over the chicken and vegetables. Stir well to coat.\n\n7. Cook for an additional 2-3 minutes until the sauce thickens and coats the chicken and vegetables.\n\n8. Serve the Kung Pao chicken over steamed rice or noodles. Garnish with toasted peanuts and sliced green onions, if desired.",
+                "rating": 4.5,
+                "favorite": false,
+                "id": "01"
+              }
+              
+        ]
     },
+
+
+
     {
         "_id": "2",
         "picture": "https://i.ibb.co/mBy9MtM/chef4.jpg",
@@ -14,7 +89,80 @@
         "experience": 11,
         "recipes": 60,
         "likes": 400,
-        "description": "Chef Lisa is known for her innovative cooking style. With 8 years of experience, she has curated 40 unique recipes loved by many, receiving 400 likes."
+        "description": "Chef Lisa is known for her innovative cooking style. With 8 years of experience, she has curated 40 unique recipes loved by many, receiving 400 likes.",
+        "recife_info": [
+            {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                  "2 boneless, skinless chicken breasts, cut into small cubes",
+                  "1/2 cup peanuts",
+                  "1 red bell pepper, diced",
+                  "1 green bell pepper, diced",
+                  "1/2 cup diced onion",
+                  "3 cloves garlic, minced",
+                  "2 tablespoons soy sauce",
+                  "1 tablespoon rice vinegar",
+                  "1 tablespoon hoisin sauce",
+                  "1 tablespoon cornstarch",
+                  "1 teaspoon red pepper flakes",
+                  "1/4 cup chicken broth",
+                  "2 tablespoons vegetable oil",
+                  "Salt and pepper to taste"
+                ],
+                "cooking_method": "1. In a small bowl, whisk together soy sauce, rice vinegar, hoisin sauce, cornstarch, red pepper flakes, and chicken broth. Set aside.\n\n2. Heat vegetable oil in a large pan or wok over medium-high heat.\n\n3. Add chicken cubes to the pan and season with salt and pepper. Cook until browned and cooked through, about 5-6 minutes. Remove the chicken from the pan and set aside.\n\n4. In the same pan, add peanuts and stir-fry for 1-2 minutes until lightly toasted. Remove from the pan and set aside.\n\n5. Add diced onion, minced garlic, and diced bell peppers to the pan. Stir-fry for 2-3 minutes until the vegetables are crisp-tender.\n\n6. Return the cooked chicken to the pan and pour the sauce mixture over the chicken and vegetables. Stir well to coat.\n\n7. Cook for an additional 2-3 minutes until the sauce thickens and coats the chicken and vegetables.\n\n8. Serve the Kung Pao chicken over steamed rice or noodles. Garnish with toasted peanuts and sliced green onions, if desired.",
+                "rating": 4.5,
+                "favorite": false,
+                "id": "01"
+              },
+            {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                  "2 boneless, skinless chicken breasts, cut into small cubes",
+                  "1/2 cup peanuts",
+                  "1 red bell pepper, diced",
+                  "1 green bell pepper, diced",
+                  "1/2 cup diced onion",
+                  "3 cloves garlic, minced",
+                  "2 tablespoons soy sauce",
+                  "1 tablespoon rice vinegar",
+                  "1 tablespoon hoisin sauce",
+                  "1 tablespoon cornstarch",
+                  "1 teaspoon red pepper flakes",
+                  "1/4 cup chicken broth",
+                  "2 tablespoons vegetable oil",
+                  "Salt and pepper to taste"
+                ],
+                "cooking_method": "1. In a small bowl, whisk together soy sauce, rice vinegar, hoisin sauce, cornstarch, red pepper flakes, and chicken broth. Set aside.\n\n2. Heat vegetable oil in a large pan or wok over medium-high heat.\n\n3. Add chicken cubes to the pan and season with salt and pepper. Cook until browned and cooked through, about 5-6 minutes. Remove the chicken from the pan and set aside.\n\n4. In the same pan, add peanuts and stir-fry for 1-2 minutes until lightly toasted. Remove from the pan and set aside.\n\n5. Add diced onion, minced garlic, and diced bell peppers to the pan. Stir-fry for 2-3 minutes until the vegetables are crisp-tender.\n\n6. Return the cooked chicken to the pan and pour the sauce mixture over the chicken and vegetables. Stir well to coat.\n\n7. Cook for an additional 2-3 minutes until the sauce thickens and coats the chicken and vegetables.\n\n8. Serve the Kung Pao chicken over steamed rice or noodles. Garnish with toasted peanuts and sliced green onions, if desired.",
+                "rating": 4.5,
+                "favorite": false,
+                "id": "01"
+              },
+            {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                  "2 boneless, skinless chicken breasts, cut into small cubes",
+                  "1/2 cup peanuts",
+                  "1 red bell pepper, diced",
+                  "1 green bell pepper, diced",
+                  "1/2 cup diced onion",
+                  "3 cloves garlic, minced",
+                  "2 tablespoons soy sauce",
+                  "1 tablespoon rice vinegar",
+                  "1 tablespoon hoisin sauce",
+                  "1 tablespoon cornstarch",
+                  "1 teaspoon red pepper flakes",
+                  "1/4 cup chicken broth",
+                  "2 tablespoons vegetable oil",
+                  "Salt and pepper to taste"
+                ],
+                "cooking_method": "1. In a small bowl, whisk together soy sauce, rice vinegar, hoisin sauce, cornstarch, red pepper flakes, and chicken broth. Set aside.\n\n2. Heat vegetable oil in a large pan or wok over medium-high heat.\n\n3. Add chicken cubes to the pan and season with salt and pepper. Cook until browned and cooked through, about 5-6 minutes. Remove the chicken from the pan and set aside.\n\n4. In the same pan, add peanuts and stir-fry for 1-2 minutes until lightly toasted. Remove from the pan and set aside.\n\n5. Add diced onion, minced garlic, and diced bell peppers to the pan. Stir-fry for 2-3 minutes until the vegetables are crisp-tender.\n\n6. Return the cooked chicken to the pan and pour the sauce mixture over the chicken and vegetables. Stir well to coat.\n\n7. Cook for an additional 2-3 minutes until the sauce thickens and coats the chicken and vegetables.\n\n8. Serve the Kung Pao chicken over steamed rice or noodles. Garnish with toasted peanuts and sliced green onions, if desired.",
+                "rating": 4.5,
+                "favorite": false,
+                "id": "01"
+              }
+              
+        ]
+
     },
     {
         "_id": "3",
@@ -23,7 +171,79 @@
         "experience": 10,
         "recipes": 45,
         "likes": 400,
-        "description": "Chef Lisa is known for her innovative cooking style. With 8 years of experience, she has curated 40 unique recipes loved by many, receiving 400 likes."
+        "description": "Chef Lisa is known for her innovative cooking style. With 8 years of experience, she has curated 40 unique recipes loved by many, receiving 400 likes.",
+        "recife_info": [
+            {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                  "2 boneless, skinless chicken breasts, cut into small cubes",
+                  "1/2 cup peanuts",
+                  "1 red bell pepper, diced",
+                  "1 green bell pepper, diced",
+                  "1/2 cup diced onion",
+                  "3 cloves garlic, minced",
+                  "2 tablespoons soy sauce",
+                  "1 tablespoon rice vinegar",
+                  "1 tablespoon hoisin sauce",
+                  "1 tablespoon cornstarch",
+                  "1 teaspoon red pepper flakes",
+                  "1/4 cup chicken broth",
+                  "2 tablespoons vegetable oil",
+                  "Salt and pepper to taste"
+                ],
+                "cooking_method": "1. In a small bowl, whisk together soy sauce, rice vinegar, hoisin sauce, cornstarch, red pepper flakes, and chicken broth. Set aside.\n\n2. Heat vegetable oil in a large pan or wok over medium-high heat.\n\n3. Add chicken cubes to the pan and season with salt and pepper. Cook until browned and cooked through, about 5-6 minutes. Remove the chicken from the pan and set aside.\n\n4. In the same pan, add peanuts and stir-fry for 1-2 minutes until lightly toasted. Remove from the pan and set aside.\n\n5. Add diced onion, minced garlic, and diced bell peppers to the pan. Stir-fry for 2-3 minutes until the vegetables are crisp-tender.\n\n6. Return the cooked chicken to the pan and pour the sauce mixture over the chicken and vegetables. Stir well to coat.\n\n7. Cook for an additional 2-3 minutes until the sauce thickens and coats the chicken and vegetables.\n\n8. Serve the Kung Pao chicken over steamed rice or noodles. Garnish with toasted peanuts and sliced green onions, if desired.",
+                "rating": 4.5,
+                "favorite": false,
+                "id": "01"
+              },
+            {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                  "2 boneless, skinless chicken breasts, cut into small cubes",
+                  "1/2 cup peanuts",
+                  "1 red bell pepper, diced",
+                  "1 green bell pepper, diced",
+                  "1/2 cup diced onion",
+                  "3 cloves garlic, minced",
+                  "2 tablespoons soy sauce",
+                  "1 tablespoon rice vinegar",
+                  "1 tablespoon hoisin sauce",
+                  "1 tablespoon cornstarch",
+                  "1 teaspoon red pepper flakes",
+                  "1/4 cup chicken broth",
+                  "2 tablespoons vegetable oil",
+                  "Salt and pepper to taste"
+                ],
+                "cooking_method": "1. In a small bowl, whisk together soy sauce, rice vinegar, hoisin sauce, cornstarch, red pepper flakes, and chicken broth. Set aside.\n\n2. Heat vegetable oil in a large pan or wok over medium-high heat.\n\n3. Add chicken cubes to the pan and season with salt and pepper. Cook until browned and cooked through, about 5-6 minutes. Remove the chicken from the pan and set aside.\n\n4. In the same pan, add peanuts and stir-fry for 1-2 minutes until lightly toasted. Remove from the pan and set aside.\n\n5. Add diced onion, minced garlic, and diced bell peppers to the pan. Stir-fry for 2-3 minutes until the vegetables are crisp-tender.\n\n6. Return the cooked chicken to the pan and pour the sauce mixture over the chicken and vegetables. Stir well to coat.\n\n7. Cook for an additional 2-3 minutes until the sauce thickens and coats the chicken and vegetables.\n\n8. Serve the Kung Pao chicken over steamed rice or noodles. Garnish with toasted peanuts and sliced green onions, if desired.",
+                "rating": 4.5,
+                "favorite": false,
+                "id": "01"
+              },
+            {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                  "2 boneless, skinless chicken breasts, cut into small cubes",
+                  "1/2 cup peanuts",
+                  "1 red bell pepper, diced",
+                  "1 green bell pepper, diced",
+                  "1/2 cup diced onion",
+                  "3 cloves garlic, minced",
+                  "2 tablespoons soy sauce",
+                  "1 tablespoon rice vinegar",
+                  "1 tablespoon hoisin sauce",
+                  "1 tablespoon cornstarch",
+                  "1 teaspoon red pepper flakes",
+                  "1/4 cup chicken broth",
+                  "2 tablespoons vegetable oil",
+                  "Salt and pepper to taste"
+                ],
+                "cooking_method": "1. In a small bowl, whisk together soy sauce, rice vinegar, hoisin sauce, cornstarch, red pepper flakes, and chicken broth. Set aside.\n\n2. Heat vegetable oil in a large pan or wok over medium-high heat.\n\n3. Add chicken cubes to the pan and season with salt and pepper. Cook until browned and cooked through, about 5-6 minutes. Remove the chicken from the pan and set aside.\n\n4. In the same pan, add peanuts and stir-fry for 1-2 minutes until lightly toasted. Remove from the pan and set aside.\n\n5. Add diced onion, minced garlic, and diced bell peppers to the pan. Stir-fry for 2-3 minutes until the vegetables are crisp-tender.\n\n6. Return the cooked chicken to the pan and pour the sauce mixture over the chicken and vegetables. Stir well to coat.\n\n7. Cook for an additional 2-3 minutes until the sauce thickens and coats the chicken and vegetables.\n\n8. Serve the Kung Pao chicken over steamed rice or noodles. Garnish with toasted peanuts and sliced green onions, if desired.",
+                "rating": 4.5,
+                "favorite": false,
+                "id": "01"
+              }
+              
+        ]
     },
     {
         "_id": "4",
@@ -32,7 +252,79 @@
         "experience": 9,
         "recipes": 40,
         "likes": 400,
-        "description": "Chef Yang is known for her innovative cooking style. With 8 years of experience, she has curated 40 unique recipes loved by many, receiving 400 likes."
+        "description": "Chef Yang is known for her innovative cooking style. With 8 years of experience, she has curated 40 unique recipes loved by many, receiving 400 likes.",
+        "recife_info": [
+            {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                  "2 boneless, skinless chicken breasts, cut into small cubes",
+                  "1/2 cup peanuts",
+                  "1 red bell pepper, diced",
+                  "1 green bell pepper, diced",
+                  "1/2 cup diced onion",
+                  "3 cloves garlic, minced",
+                  "2 tablespoons soy sauce",
+                  "1 tablespoon rice vinegar",
+                  "1 tablespoon hoisin sauce",
+                  "1 tablespoon cornstarch",
+                  "1 teaspoon red pepper flakes",
+                  "1/4 cup chicken broth",
+                  "2 tablespoons vegetable oil",
+                  "Salt and pepper to taste"
+                ],
+                "cooking_method": "1. In a small bowl, whisk together soy sauce, rice vinegar, hoisin sauce, cornstarch, red pepper flakes, and chicken broth. Set aside.\n\n2. Heat vegetable oil in a large pan or wok over medium-high heat.\n\n3. Add chicken cubes to the pan and season with salt and pepper. Cook until browned and cooked through, about 5-6 minutes. Remove the chicken from the pan and set aside.\n\n4. In the same pan, add peanuts and stir-fry for 1-2 minutes until lightly toasted. Remove from the pan and set aside.\n\n5. Add diced onion, minced garlic, and diced bell peppers to the pan. Stir-fry for 2-3 minutes until the vegetables are crisp-tender.\n\n6. Return the cooked chicken to the pan and pour the sauce mixture over the chicken and vegetables. Stir well to coat.\n\n7. Cook for an additional 2-3 minutes until the sauce thickens and coats the chicken and vegetables.\n\n8. Serve the Kung Pao chicken over steamed rice or noodles. Garnish with toasted peanuts and sliced green onions, if desired.",
+                "rating": 4.5,
+                "favorite": false,
+                "id": "01"
+              },
+            {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                  "2 boneless, skinless chicken breasts, cut into small cubes",
+                  "1/2 cup peanuts",
+                  "1 red bell pepper, diced",
+                  "1 green bell pepper, diced",
+                  "1/2 cup diced onion",
+                  "3 cloves garlic, minced",
+                  "2 tablespoons soy sauce",
+                  "1 tablespoon rice vinegar",
+                  "1 tablespoon hoisin sauce",
+                  "1 tablespoon cornstarch",
+                  "1 teaspoon red pepper flakes",
+                  "1/4 cup chicken broth",
+                  "2 tablespoons vegetable oil",
+                  "Salt and pepper to taste"
+                ],
+                "cooking_method": "1. In a small bowl, whisk together soy sauce, rice vinegar, hoisin sauce, cornstarch, red pepper flakes, and chicken broth. Set aside.\n\n2. Heat vegetable oil in a large pan or wok over medium-high heat.\n\n3. Add chicken cubes to the pan and season with salt and pepper. Cook until browned and cooked through, about 5-6 minutes. Remove the chicken from the pan and set aside.\n\n4. In the same pan, add peanuts and stir-fry for 1-2 minutes until lightly toasted. Remove from the pan and set aside.\n\n5. Add diced onion, minced garlic, and diced bell peppers to the pan. Stir-fry for 2-3 minutes until the vegetables are crisp-tender.\n\n6. Return the cooked chicken to the pan and pour the sauce mixture over the chicken and vegetables. Stir well to coat.\n\n7. Cook for an additional 2-3 minutes until the sauce thickens and coats the chicken and vegetables.\n\n8. Serve the Kung Pao chicken over steamed rice or noodles. Garnish with toasted peanuts and sliced green onions, if desired.",
+                "rating": 4.5,
+                "favorite": false,
+                "id": "01"
+              },
+            {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                  "2 boneless, skinless chicken breasts, cut into small cubes",
+                  "1/2 cup peanuts",
+                  "1 red bell pepper, diced",
+                  "1 green bell pepper, diced",
+                  "1/2 cup diced onion",
+                  "3 cloves garlic, minced",
+                  "2 tablespoons soy sauce",
+                  "1 tablespoon rice vinegar",
+                  "1 tablespoon hoisin sauce",
+                  "1 tablespoon cornstarch",
+                  "1 teaspoon red pepper flakes",
+                  "1/4 cup chicken broth",
+                  "2 tablespoons vegetable oil",
+                  "Salt and pepper to taste"
+                ],
+                "cooking_method": "1. In a small bowl, whisk together soy sauce, rice vinegar, hoisin sauce, cornstarch, red pepper flakes, and chicken broth. Set aside.\n\n2. Heat vegetable oil in a large pan or wok over medium-high heat.\n\n3. Add chicken cubes to the pan and season with salt and pepper. Cook until browned and cooked through, about 5-6 minutes. Remove the chicken from the pan and set aside.\n\n4. In the same pan, add peanuts and stir-fry for 1-2 minutes until lightly toasted. Remove from the pan and set aside.\n\n5. Add diced onion, minced garlic, and diced bell peppers to the pan. Stir-fry for 2-3 minutes until the vegetables are crisp-tender.\n\n6. Return the cooked chicken to the pan and pour the sauce mixture over the chicken and vegetables. Stir well to coat.\n\n7. Cook for an additional 2-3 minutes until the sauce thickens and coats the chicken and vegetables.\n\n8. Serve the Kung Pao chicken over steamed rice or noodles. Garnish with toasted peanuts and sliced green onions, if desired.",
+                "rating": 4.5,
+                "favorite": false,
+                "id": "01"
+              }
+              
+        ]
     },
     {
         "_id": "5",
@@ -41,7 +333,79 @@
         "experience": 10,
         "recipes": 40,
         "likes": 450,
-        "description": "Chef Lisa is known for her innovative cooking style. With 8 years of experience, she has curated 40 unique recipes loved by many, receiving 400 likes."
+        "description": "Chef Lisa is known for her innovative cooking style. With 8 years of experience, she has curated 40 unique recipes loved by many, receiving 400 likes.",
+        "recife_info": [
+            {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                  "2 boneless, skinless chicken breasts, cut into small cubes",
+                  "1/2 cup peanuts",
+                  "1 red bell pepper, diced",
+                  "1 green bell pepper, diced",
+                  "1/2 cup diced onion",
+                  "3 cloves garlic, minced",
+                  "2 tablespoons soy sauce",
+                  "1 tablespoon rice vinegar",
+                  "1 tablespoon hoisin sauce",
+                  "1 tablespoon cornstarch",
+                  "1 teaspoon red pepper flakes",
+                  "1/4 cup chicken broth",
+                  "2 tablespoons vegetable oil",
+                  "Salt and pepper to taste"
+                ],
+                "cooking_method": "1. In a small bowl, whisk together soy sauce, rice vinegar, hoisin sauce, cornstarch, red pepper flakes, and chicken broth. Set aside.\n\n2. Heat vegetable oil in a large pan or wok over medium-high heat.\n\n3. Add chicken cubes to the pan and season with salt and pepper. Cook until browned and cooked through, about 5-6 minutes. Remove the chicken from the pan and set aside.\n\n4. In the same pan, add peanuts and stir-fry for 1-2 minutes until lightly toasted. Remove from the pan and set aside.\n\n5. Add diced onion, minced garlic, and diced bell peppers to the pan. Stir-fry for 2-3 minutes until the vegetables are crisp-tender.\n\n6. Return the cooked chicken to the pan and pour the sauce mixture over the chicken and vegetables. Stir well to coat.\n\n7. Cook for an additional 2-3 minutes until the sauce thickens and coats the chicken and vegetables.\n\n8. Serve the Kung Pao chicken over steamed rice or noodles. Garnish with toasted peanuts and sliced green onions, if desired.",
+                "rating": 4.5,
+                "favorite": false,
+                "id": "01"
+              },
+            {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                  "2 boneless, skinless chicken breasts, cut into small cubes",
+                  "1/2 cup peanuts",
+                  "1 red bell pepper, diced",
+                  "1 green bell pepper, diced",
+                  "1/2 cup diced onion",
+                  "3 cloves garlic, minced",
+                  "2 tablespoons soy sauce",
+                  "1 tablespoon rice vinegar",
+                  "1 tablespoon hoisin sauce",
+                  "1 tablespoon cornstarch",
+                  "1 teaspoon red pepper flakes",
+                  "1/4 cup chicken broth",
+                  "2 tablespoons vegetable oil",
+                  "Salt and pepper to taste"
+                ],
+                "cooking_method": "1. In a small bowl, whisk together soy sauce, rice vinegar, hoisin sauce, cornstarch, red pepper flakes, and chicken broth. Set aside.\n\n2. Heat vegetable oil in a large pan or wok over medium-high heat.\n\n3. Add chicken cubes to the pan and season with salt and pepper. Cook until browned and cooked through, about 5-6 minutes. Remove the chicken from the pan and set aside.\n\n4. In the same pan, add peanuts and stir-fry for 1-2 minutes until lightly toasted. Remove from the pan and set aside.\n\n5. Add diced onion, minced garlic, and diced bell peppers to the pan. Stir-fry for 2-3 minutes until the vegetables are crisp-tender.\n\n6. Return the cooked chicken to the pan and pour the sauce mixture over the chicken and vegetables. Stir well to coat.\n\n7. Cook for an additional 2-3 minutes until the sauce thickens and coats the chicken and vegetables.\n\n8. Serve the Kung Pao chicken over steamed rice or noodles. Garnish with toasted peanuts and sliced green onions, if desired.",
+                "rating": 4.5,
+                "favorite": false,
+                "id": "01"
+              },
+            {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                  "2 boneless, skinless chicken breasts, cut into small cubes",
+                  "1/2 cup peanuts",
+                  "1 red bell pepper, diced",
+                  "1 green bell pepper, diced",
+                  "1/2 cup diced onion",
+                  "3 cloves garlic, minced",
+                  "2 tablespoons soy sauce",
+                  "1 tablespoon rice vinegar",
+                  "1 tablespoon hoisin sauce",
+                  "1 tablespoon cornstarch",
+                  "1 teaspoon red pepper flakes",
+                  "1/4 cup chicken broth",
+                  "2 tablespoons vegetable oil",
+                  "Salt and pepper to taste"
+                ],
+                "cooking_method": "1. In a small bowl, whisk together soy sauce, rice vinegar, hoisin sauce, cornstarch, red pepper flakes, and chicken broth. Set aside.\n\n2. Heat vegetable oil in a large pan or wok over medium-high heat.\n\n3. Add chicken cubes to the pan and season with salt and pepper. Cook until browned and cooked through, about 5-6 minutes. Remove the chicken from the pan and set aside.\n\n4. In the same pan, add peanuts and stir-fry for 1-2 minutes until lightly toasted. Remove from the pan and set aside.\n\n5. Add diced onion, minced garlic, and diced bell peppers to the pan. Stir-fry for 2-3 minutes until the vegetables are crisp-tender.\n\n6. Return the cooked chicken to the pan and pour the sauce mixture over the chicken and vegetables. Stir well to coat.\n\n7. Cook for an additional 2-3 minutes until the sauce thickens and coats the chicken and vegetables.\n\n8. Serve the Kung Pao chicken over steamed rice or noodles. Garnish with toasted peanuts and sliced green onions, if desired.",
+                "rating": 4.5,
+                "favorite": false,
+                "id": "01"
+              }
+              
+        ]
     },
     {
         "_id": "6",
@@ -50,6 +414,78 @@
         "experience": 8,
         "recipes": 55,
         "likes": 500,
-        "description": "Chef Chixi is known for her innovative cooking style. With 8 years of experience, she has curated 40 unique recipes loved by many, receiving 400 likes."
+        "description": "Chef Chixi is known for her innovative cooking style. With 8 years of experience, she has curated 40 unique recipes loved by many, receiving 400 likes.",
+        "recife_info": [
+            {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                  "2 boneless, skinless chicken breasts, cut into small cubes",
+                  "1/2 cup peanuts",
+                  "1 red bell pepper, diced",
+                  "1 green bell pepper, diced",
+                  "1/2 cup diced onion",
+                  "3 cloves garlic, minced",
+                  "2 tablespoons soy sauce",
+                  "1 tablespoon rice vinegar",
+                  "1 tablespoon hoisin sauce",
+                  "1 tablespoon cornstarch",
+                  "1 teaspoon red pepper flakes",
+                  "1/4 cup chicken broth",
+                  "2 tablespoons vegetable oil",
+                  "Salt and pepper to taste"
+                ],
+                "cooking_method": "1. In a small bowl, whisk together soy sauce, rice vinegar, hoisin sauce, cornstarch, red pepper flakes, and chicken broth. Set aside.\n\n2. Heat vegetable oil in a large pan or wok over medium-high heat.\n\n3. Add chicken cubes to the pan and season with salt and pepper. Cook until browned and cooked through, about 5-6 minutes. Remove the chicken from the pan and set aside.\n\n4. In the same pan, add peanuts and stir-fry for 1-2 minutes until lightly toasted. Remove from the pan and set aside.\n\n5. Add diced onion, minced garlic, and diced bell peppers to the pan. Stir-fry for 2-3 minutes until the vegetables are crisp-tender.\n\n6. Return the cooked chicken to the pan and pour the sauce mixture over the chicken and vegetables. Stir well to coat.\n\n7. Cook for an additional 2-3 minutes until the sauce thickens and coats the chicken and vegetables.\n\n8. Serve the Kung Pao chicken over steamed rice or noodles. Garnish with toasted peanuts and sliced green onions, if desired.",
+                "rating": 4.5,
+                "favorite": false,
+                "id": "01"
+              },
+            {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                  "2 boneless, skinless chicken breasts, cut into small cubes",
+                  "1/2 cup peanuts",
+                  "1 red bell pepper, diced",
+                  "1 green bell pepper, diced",
+                  "1/2 cup diced onion",
+                  "3 cloves garlic, minced",
+                  "2 tablespoons soy sauce",
+                  "1 tablespoon rice vinegar",
+                  "1 tablespoon hoisin sauce",
+                  "1 tablespoon cornstarch",
+                  "1 teaspoon red pepper flakes",
+                  "1/4 cup chicken broth",
+                  "2 tablespoons vegetable oil",
+                  "Salt and pepper to taste"
+                ],
+                "cooking_method": "1. In a small bowl, whisk together soy sauce, rice vinegar, hoisin sauce, cornstarch, red pepper flakes, and chicken broth. Set aside.\n\n2. Heat vegetable oil in a large pan or wok over medium-high heat.\n\n3. Add chicken cubes to the pan and season with salt and pepper. Cook until browned and cooked through, about 5-6 minutes. Remove the chicken from the pan and set aside.\n\n4. In the same pan, add peanuts and stir-fry for 1-2 minutes until lightly toasted. Remove from the pan and set aside.\n\n5. Add diced onion, minced garlic, and diced bell peppers to the pan. Stir-fry for 2-3 minutes until the vegetables are crisp-tender.\n\n6. Return the cooked chicken to the pan and pour the sauce mixture over the chicken and vegetables. Stir well to coat.\n\n7. Cook for an additional 2-3 minutes until the sauce thickens and coats the chicken and vegetables.\n\n8. Serve the Kung Pao chicken over steamed rice or noodles. Garnish with toasted peanuts and sliced green onions, if desired.",
+                "rating": 4.5,
+                "favorite": false,
+                "id": "01"
+              },
+            {
+                "recipe_name": "Kung Pao Chicken",
+                "ingredients": [
+                  "2 boneless, skinless chicken breasts, cut into small cubes",
+                  "1/2 cup peanuts",
+                  "1 red bell pepper, diced",
+                  "1 green bell pepper, diced",
+                  "1/2 cup diced onion",
+                  "3 cloves garlic, minced",
+                  "2 tablespoons soy sauce",
+                  "1 tablespoon rice vinegar",
+                  "1 tablespoon hoisin sauce",
+                  "1 tablespoon cornstarch",
+                  "1 teaspoon red pepper flakes",
+                  "1/4 cup chicken broth",
+                  "2 tablespoons vegetable oil",
+                  "Salt and pepper to taste"
+                ],
+                "cooking_method": "1. In a small bowl, whisk together soy sauce, rice vinegar, hoisin sauce, cornstarch, red pepper flakes, and chicken broth. Set aside.\n\n2. Heat vegetable oil in a large pan or wok over medium-high heat.\n\n3. Add chicken cubes to the pan and season with salt and pepper. Cook until browned and cooked through, about 5-6 minutes. Remove the chicken from the pan and set aside.\n\n4. In the same pan, add peanuts and stir-fry for 1-2 minutes until lightly toasted. Remove from the pan and set aside.\n\n5. Add diced onion, minced garlic, and diced bell peppers to the pan. Stir-fry for 2-3 minutes until the vegetables are crisp-tender.\n\n6. Return the cooked chicken to the pan and pour the sauce mixture over the chicken and vegetables. Stir well to coat.\n\n7. Cook for an additional 2-3 minutes until the sauce thickens and coats the chicken and vegetables.\n\n8. Serve the Kung Pao chicken over steamed rice or noodles. Garnish with toasted peanuts and sliced green onions, if desired.",
+                "rating": 4.5,
+                "favorite": false,
+                "id": "01"
+              }
+              
+        ]
     }
 ]
